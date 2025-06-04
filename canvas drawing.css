@@ -1,0 +1,18 @@
+
+title {
+	text-align: center;
+	margin: 2em 0 0 0;
+	color: tomato;
+}
+
+.color-input {
+	width: 200px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.canvas {
+	border: 3px solid tomato;
+	display: block;
+	margin: 2em auto;
+}

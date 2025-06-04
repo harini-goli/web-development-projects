@@ -1,0 +1,197 @@
+#html#
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>RESUME </title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="css/data.css">
+</head>
+<body>
+<div class="container">
+    <div class="left_Side">
+        <div class="profileText">
+            <div class="imgBx">
+                <img class="photo" src="images/image.jpg">
+            </div>
+            <br>
+            <h2>NAME <br><span>Web Developer</span> </h2>
+        </div>
+
+        <div class="contactInfo">
+            <h3 class="title">Contact Info</h3>
+            <ul>
+                <li>
+                    <span class="icon"><i class="fa fa-phone" aria-hidden="true"></i></span>
+                    <span class="text">+91 123456789</span>
+                </li>
+                <li>
+                    <span class="icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
+                    <span class="text">jon_doe@example.com</span>
+                </li>
+                <li>
+                    <span class="icon"><i class="fa fa-globe" aria-hidden="true"></i></span>
+                    <span class="text">www.mywebsite.com</span>
+                </li>
+                <li>
+                    <span class="icon"><i class="fa fa-linkedin" aria-hidden="true"></i></span>
+                    <span class="text">www.linkedin</span>
+                </li>
+                <li>
+                    <span class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></span>
+                    <span class="text">AP,INDIA</span>
+                </li>
+            </ul>
+        </div>
+        <div class="contactInfo education">
+            <h3 class="title">Education</h3>
+            <ul>
+                <li>
+                    <h5>2022 - 2026</h5>
+                    <h4>INFORMATION TECHNOLOGY</h4>
+                    <h4>University Name</h4>
+                </li>
+                <li>
+                    <h5>2020- 2022</h5>
+                    <h4>INTERMEDIATE</h4>
+                    <h4>COLLEGE NAME</h4>
+                </li>
+                <li>
+                    <h5>2020</h5>
+                    <h4>SCHOOL </h4>
+                    <h4>SCHOOL NAME</h4>
+                </li>
+            </ul>
+        </div>
+        <div class="contactInfo language">
+            <h3 class="title">Languages</h3>
+            <ul>
+                <li>
+                    <span class="text">English</span>
+                    <span class="percent">
+                        <div class="englishw50" "></div>
+                    </span>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <span class="text">TELUGU</span>
+                    <span class="percent">
+                        <div class="TELUGU90"></div>
+                    </span>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <span class="text">HINDI</span>
+                    <span class="percent">
+                        <div class="HINDI30"></div>
+                    </span>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="right_Side">
+        <div class="about">
+            <h2 class="title2">Profile</h2>
+            <p>Motivated to join a forward- thinking team where creat ivi ty,learning, and
+innovat ion come together—turning ideas into impact while growing
+through challenges, cont r ibut ing meaningfully, and evolving as both a
+professional and a problem-solver in a purpose-dr iven work envi ronment.</p>
+        </div>
+        <div class="ABOUT">
+            <h2 class="title2">PROJECTS</h2>
+            <div class="box">
+                <div class="WEB PAGE">
+                    
+                </div>
+                <div class="text">
+                                 <h3>WEB HEALTH APP</h3>
+                    <p>Built responsive health app webpage us ing HTML , CSS, and JavaScriptDesigned user-friendly layouts for logging vitals, viewing health stats, and managing appointments.
+
+Implemented mobile-first design principles and ensured cross-browser compatibility.
+
+Styled components for dashboards, forms, and navigation using modern CSS techniques (Flexbox, Grid).
+
+Enhanced user experience with clean UI design and intuitive navigation..</p>
+                </div>
+            </div>
+
+
+                <div class="text">
+                    <h4>HUMAN POSE ESTIMATION USING ML</h4>
+                    <p>Implemented a human pose estimation model using OpenPose / MediaPipe / TensorFlow for keypoint detection in images and videos.
+
+Processed visual data with OpenCV for real-time pose tracking and body joint localization.
+
+Trained on standard datasets (e.g., COCO, MPII) to improve model accuracy and generalization.
+
+Applied pose estimation to practical use cases like fitness tracking, gesture recognition, and activity analysis.
+
+Visualized skeletal overlays on human subjects using Python and image processing techniques.
+
+Achieved real-time inference performance on webcam feeds with optimized model deployment.
+
+</p>
+                </div>
+                                 </div>
+            </div>
+        </div>
+        <div class="about skills">
+            <h2 class="title2">Professionals skills</h2>
+            <div class="box">
+                <h4>HTML</h4>
+                <div class="percent">
+                    <div class="htmlws30"></div>
+                </div>
+            </div>
+            <div class="box">
+                <h4>CSS</h4>
+                <div class="percent">
+                    <div class="cssws45"></div>
+                </div>
+            </div>
+            <div class="box">
+                <h4>JavaScript</h4>
+                <div class="percent">
+                    <div class="jsws70"></div>
+                </div>
+            </div>
+            <div class="box">
+                <h4>python</h4>
+                <div class="percent">
+                    <div class="ilws60"></div>
+                </div>
+            </div>
+            <div class="box">
+                <h4>machine learning</h4>
+                <div class="percent">
+                    <div class="ilws60"></div>
+                </div>
+            </div>
+            <div class="box">
+                <h4>java</h4>
+                <div class="percent">
+                    <div class="adw70"></div>
+                </div>
+            </div>
+        </div>
+        <div class="about interest">
+            <h2 class="title2">Interests</h2>
+            <ul>
+                <li><i class="fa fa-book" aria-hidden="true"></i> Reading</li>
+                <li><i class="fa fa-gamepad" aria-hidden="true"></i> Gaming</li>
+                <li><i class="fa fa-cutlery" aria-hidden="true"></i> Cooking</li>
+                <li><i class="fa fa-microphone" aria-hidden="true"></i> Singing</li>
+            </ul>
+        </div>
+
+
+    </div>
+</div>
+</body>
+</html>
